@@ -1,6 +1,6 @@
 # Repositorio base de ToDo List
 
-¡Hola!
+¡Hola a todos!
 
 En este repositorio encontrarás el código desarrollado para esta ToDo List. Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
 
