@@ -4,6 +4,8 @@ h1 {
     margin: 0;
     padding: 48px;
     font-weight: normal;
+    color: rgb(236, 236, 236);
+    font-family: 'Roboto';
 }
 
 .TodoCounter span {

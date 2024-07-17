@@ -1,5 +1,5 @@
 .TodoItem {
-    background-color: rgb(186, 216, 255);
+    background-color: rgb(85, 85, 85);
     position: relative;
     display: flex;
     align-items: center;
@@ -16,6 +16,7 @@
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
+    color: rgb(233, 233, 233);
 }
 
 .TodoItem-p--complete{

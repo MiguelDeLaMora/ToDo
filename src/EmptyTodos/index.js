@@ -1,5 +1,5 @@
 import React from 'react';
-// import './EmptyTodos.css'
+import './EmptyTodos.css'
 
 function EmptyTodos(){
     return(
