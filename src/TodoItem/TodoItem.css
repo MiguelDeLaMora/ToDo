@@ -1,10 +1,10 @@
 .TodoItem {
-    background-color: lightblue;
+    background-color: rgb(186, 216, 255);
     position: relative;
     display: flex;
     align-items: center;
     justify-content: center;
-    
+    border-radius: 25px;
     margin-top: 24px;
     box-shadow: 0px 5px 50px black;
     
